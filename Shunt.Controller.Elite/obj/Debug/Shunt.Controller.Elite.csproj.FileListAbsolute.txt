@@ -1,0 +1,7 @@
+C:\Source\Shunt\Shunt.Controller.Elite\bin\Debug\Shunt.Controller.Elite.dll
+C:\Source\Shunt\Shunt.Controller.Elite\bin\Debug\Shunt.Controller.Elite.pdb
+C:\Source\Shunt\Shunt.Controller.Elite\bin\Debug\Shunt.Common.dll
+C:\Source\Shunt\Shunt.Controller.Elite\bin\Debug\Shunt.Common.pdb
+C:\Source\Shunt\Shunt.Controller.Elite\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Shunt\Shunt.Controller.Elite\obj\Debug\Shunt.Controller.Elite.dll
+C:\Source\Shunt\Shunt.Controller.Elite\obj\Debug\Shunt.Controller.Elite.pdb

@@ -1,0 +1,17 @@
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Client.exe.config
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\Shunt.Client.Form1.resources
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\Shunt.Client.Properties.Resources.resources
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Client.exe
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Client.pdb
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Common.dll
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Controller.Elite.dll
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Controller.Elite.pdb
+C:\Source\Shunt\Shunt.Client\bin\Debug\Shunt.Common.pdb
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\Shunt.Client.exe
+C:\Source\Shunt\Shunt.Client\obj\x86\Debug\Shunt.Client.pdb
+C:\Source\Shunt_Git\Shunt.Client\bin\Debug\Shunt.Client.exe.config
+C:\Source\Shunt_Git\Shunt.Client\obj\x86\Debug\Shunt.Client.exe
+C:\Source\Shunt_Git\Shunt.Client\obj\x86\Debug\Shunt.Client.pdb
