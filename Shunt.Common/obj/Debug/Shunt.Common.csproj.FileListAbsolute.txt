@@ -1,5 +1,0 @@
-C:\Source\Shunt\Shunt.Common\bin\Debug\Shunt.Common.dll
-C:\Source\Shunt\Shunt.Common\bin\Debug\Shunt.Common.pdb
-C:\Source\Shunt\Shunt.Common\obj\Debug\ResolveAssemblyReference.cache
-C:\Source\Shunt\Shunt.Common\obj\Debug\Shunt.Common.dll
-C:\Source\Shunt\Shunt.Common\obj\Debug\Shunt.Common.pdb
